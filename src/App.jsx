@@ -1,11 +1,12 @@
 
+import Navc from './components/Navc';
 
 function App() {
 
   return (
     <>
     
-      <Nav />
+      <Navc />
     </>
   )
 }
